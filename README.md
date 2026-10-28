@@ -1,4 +1,4 @@
-## 👏 Hi, I'm *Elias Tovar*
+## 👏 Hi, I'm Elias Tovar
 ##  About Me
 I'm a Computer Science student with a strong foundation in information technology, information security, and cybersecurity. I enjoy digging into logs, spotting potential threats, and figuring out how to stop them before they become problems.
 
